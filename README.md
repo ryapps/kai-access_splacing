@@ -67,13 +67,13 @@ Aplikasi ini menggunakan **Bottom Navigation Bar** untuk memudahkan pengguna ber
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/username/KAI-Access-Flutter.git
+   git clone https://github.com/ryapps/kai-access_splacing.git
    ```
 
 2. Pindah ke folder project:
 
    ```bash
-   cd KAI-Access-Flutter
+   cd kai-access_splacing
    ```
 
 3. Install dependencies:
@@ -89,5 +89,3 @@ Aplikasi ini menggunakan **Bottom Navigation Bar** untuk memudahkan pengguna ber
    ```
 
 ---
-
-README ini sudah disesuaikan dengan deskripsi fitur, screenshot, dan kode navigasi yang ada di aplikasi. Pastikan untuk mengganti URL repository dengan yang sesuai jika diunggah ke GitHub.
